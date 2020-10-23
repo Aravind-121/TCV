@@ -1,0 +1,33 @@
+.search-daba {
+  width: 60%;
+  margin-top: 10%;
+  margin-left: 20%;
+  border: 0.5px solid rgb(232, 66, 121);
+  color: aliceblue;
+}
+
+.search-btn {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  width: 60%;
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-bottom: 10%;
+  padding: 20px 0;
+  text-decoration: none;
+  color: rgb(239, 187, 53);
+  border: 1px solid black;
+}
+.search-btn:hover {
+  border: 2px solid black;
+}
+.search-box:active {
+  border: 1px solid rgb(232, 66, 121);
+}
+#combo-box-demo {
+  color: #c0c0c0;
+}
+.MuiSvgIcon-root {
+  color: #c0c0c0;
+}

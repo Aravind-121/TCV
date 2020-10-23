@@ -1,0 +1,20 @@
+.prevention-daba {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-bottom: 10vh;
+}
+.img-divs p {
+  text-align: center;
+  font-size: 10px;
+  color: #1111;
+  transition: transform 0.4s;
+}
+
+.img-divs:hover p {
+  cursor: pointer;
+  font-size: 10px;
+  transform: scale(1.8);
+  color: rgb(232, 66, 121);
+  font-weight: 800;
+}

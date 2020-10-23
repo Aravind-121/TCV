@@ -1,0 +1,10 @@
+.nav-link {
+  margin: 20px;
+  margin-left: 40px;
+  color: seashell;
+  width: 5%;
+  text-align: center;
+}
+.nav:hover .home {
+  color: white;
+}

@@ -1,0 +1,79 @@
+.heading {
+  text-align: center;
+  color: rgb(239, 187, 53);
+  margin-top: 45px;
+  margin: auto;
+  letter-spacing: 5px;
+}
+.virus-cont {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.virus-img {
+  width: 300px;
+  height: 200px;
+}
+.para {
+  color: seashell;
+}
+
+.tn-heading {
+  margin-top: 3%;
+  padding-top: 60px;
+  text-align: center;
+  color: rgb(232, 66, 121);
+  letter-spacing: 3px;
+  padding-bottom: 36px;
+  text-shadow: 0px 0px 5px rgb(232, 66, 121);
+}
+.tn-box {
+  color: oldlace;
+  text-align: center;
+  padding: 20px;
+  margin-right: 7px;
+  margin-bottom: 7px;
+  margin-left: 5px;
+  font-size: 20px;
+}
+.red-daba {
+  color: #ff0038;
+  border: 0.5px solid #ff0038;
+  border-radius: 5px;
+}
+.red-daba:hover {
+  background-color: rgba(205, 92, 92, 0.1);
+}
+.blue-daba {
+  border-radius: 5px;
+  color: #61dafb;
+  border: 0.5px solid #61dafb;
+}
+.blue-daba:hover {
+  background-color: rgba(176, 224, 230, 0.1);
+}
+.green-daba {
+  border-radius: 5px;
+  color: #00a86b;
+  border: 0.5px solid #00a86b;
+}
+.green-daba:hover {
+  background-color: rgba(80, 200, 120, 0.1);
+}
+.grey-daba {
+  border-radius: 5px;
+  color: #c0c0c0;
+  border: 0.5px solid #c0c0c0;
+}
+.grey-daba:hover {
+  background-color: rgba(220, 220, 220, 0.1);
+}
+
+.footer-links {
+  background: rgba(176, 224, 230, 0.1);
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
