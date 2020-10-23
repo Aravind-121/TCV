@@ -41,7 +41,7 @@ class Home extends Component{
             <div>
                 <div className="head-container">
                     <div className="virus-cont">
-                        <img className="virus-img" src={virus}/>
+                        <img className="virus-img" alt="virus" src={virus}/>
                     </div>
                     <h1 className="heading">COVID-19</h1>
                     <p className="heading para">corona virus</p>
