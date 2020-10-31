@@ -6,6 +6,7 @@ import Prevention from './Prevention';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import TwitterIcon from '@material-ui/icons/Twitter';
 import virus from '../images/virus.PNG';
+import ChatBot from './ChatBot';
 
 class Home extends Component{
     constructor(props){
@@ -68,7 +69,8 @@ class Home extends Component{
                     </div>
                 </div>
                 <Search/>
-                <Prevention/>
+                <Prevention />
+                <ChatBot/>
                 <div className="footer-links">
                     <a href="https://github.com/Aravind-121" ><GitHubIcon style={{fontSize:"26px",marginRight:"60px",color:"white"}}/></a>
                     <TwitterIcon style={{fontSize:"26px",color:"#00acee"}}/>
