@@ -19,5 +19,5 @@ You will also see any lint errors in the console.
 
 ## View Live App at
 
-<a href="https://tn-covidvisualizer.netlify.app/"><img src="https://img.shields.io/badge/NETLIFY-Live%20App-%2300C7B7?logo=netlify"> </a>
+<a href="https://tn-covidvisualizer.netlify.app/"><img src="https://img.shields.io/badge/NETLIFY-Live%20App-%2300C7B7?logo=netlify"></a>
 
